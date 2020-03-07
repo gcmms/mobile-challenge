@@ -80,10 +80,10 @@
             </objects>
             <point key="canvasLocation" x="137.68115942028987" y="126.5625"/>
         </scene>
-        <!--Table View Controller-->
+        <!--Moeda Para Converter Table View Controller-->
         <scene sceneID="3ss-VU-PvA">
             <objects>
-                <tableViewController interfaceStyle="dark" id="MsG-zI-XxP" sceneMemberID="viewController">
+                <tableViewController interfaceStyle="dark" id="MsG-zI-XxP" customClass="MoedaParaConverterTableViewController" customModule="ConversorDeValores" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="Hwr-ro-8x8">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -109,10 +109,10 @@
             </objects>
             <point key="canvasLocation" x="941" y="480"/>
         </scene>
-        <!--Table View Controller-->
+        <!--Moeda Origem View Controller-->
         <scene sceneID="UlZ-8D-hq5">
             <objects>
-                <tableViewController interfaceStyle="dark" id="RbO-WG-JDw" sceneMemberID="viewController">
+                <tableViewController interfaceStyle="dark" id="RbO-WG-JDw" customClass="MoedaOrigemViewController" customModule="ConversorDeValores" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="PXA-cj-61x">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

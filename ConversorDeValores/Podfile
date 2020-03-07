@@ -1,0 +1,14 @@
+# Uncomment the next line to define a global platform for your project
+# Create By Gabriel Sanzone
+# platform :ios, '9.0'
+
+target 'ConversorDeValores' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for ConversorDeValores
+
+    pod 'Moya'
+    pod 'Toast-Swift'
+
+end
